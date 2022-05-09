@@ -1,9 +1,9 @@
 # login_demo
 
 Login Application which includes email/password and Google login. This application is calling fake [APIs](https://jsonplaceholder.typicode.com/users). 
-It includes Google Maps which is showing addresses of users.
+It includes Google Maps which is showing addresses of users. On user profile screen, four links are there. Mail, call, website and maps.
 
-## Application looks like
+## Application looks like 
 
 
 ![1](https://user-images.githubusercontent.com/85578726/167362829-8d9b0429-34e8-4b75-b011-081336d57ff5.PNG)
